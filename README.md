@@ -22,11 +22,10 @@ Maximizing the composability of Ethereum and its scaling ecosystem
 
 Current Progress
 
-Component	              Status	            Notes
-Smart contracts	        In progress	        Core DEX and liquidity pool contracts
-Cross-chain messaging	  Prototype	          LayerZero integration underway
-Frontend application	  In progress	        Built with Next.js and Wagmi
-Testnet deployment	    Upcoming	          Targeting Sepolia, Arbitrum Sepolia, Optimism Sepolia
+
+Smart contracts	(Core DEX and liquidity pool contracts) & Frontend application (	Built with Next.js and Wagmi) are in progress.
+Cross-chain messaging	(LayerZero integration underway) still in  Prototype	                
+Upcoming Testnet deployment targeting Sepolia, Arbitrum Sepolia, Optimism Sepolia
 
 
 Why It Matters
