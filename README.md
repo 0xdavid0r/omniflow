@@ -22,11 +22,13 @@ Maximizing the composability of Ethereum and its scaling ecosystem
 
 Current Progress
 
-Component	Status	Notes
-Smart contracts	In progress	Core DEX and liquidity pool contracts
-Cross-chain messaging	Prototype	LayerZero integration underway
-Frontend application	In progress	Built with Next.js and Wagmi
-Testnet deployment	Upcoming	Targeting Sepolia, Arbitrum Sepolia, Optimism Sepolia
+Component	              Status	            Notes
+Smart contracts	        In progress	        Core DEX and liquidity pool contracts
+Cross-chain messaging	  Prototype	          LayerZero integration underway
+Frontend application	  In progress	        Built with Next.js and Wagmi
+Testnet deployment	    Upcoming	          Targeting Sepolia, Arbitrum Sepolia, Optimism Sepolia
+
+
 Why It Matters
 Omniflow.fi is aligned with the Ethereum ethos:
 
